@@ -1,0 +1,6 @@
+.idea/
+DiceLikeCards.iml
+lib/
+figwheel_server.log
+resources/public/js/
+target/
